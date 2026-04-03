@@ -4,3 +4,4 @@ git checkout -b BSCCSIT_lab_Test
 git add .
 git commit -m "sachin lab exam"
 git push origin BSCCSIT_Lab_Test
+git merge in main
