@@ -1,2 +1,6 @@
-print("Hello World")
-echo ("new txt file")
+git clone ""
+git init
+git checkout -b BSCCSIT_lab_Test
+git add .
+git commit -m "sachin lab exam"
+git push origin BSCCSIT_Lab_Test
